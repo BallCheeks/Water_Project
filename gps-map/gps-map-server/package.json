@@ -12,6 +12,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "express-basic-auth": "^1.2.1",
     "sqlite3": "^5.1.7"
   }
 }
